@@ -1,0 +1,8 @@
+[package]
+name = "riff-engine"
+version = "0.1.0"
+edition = "2021"
+description = "Multi-agent constructive collaboration engine — riffs that grow with iterations"
+license = "MIT"
+
+[dependencies]
